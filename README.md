@@ -1,4 +1,3 @@
----
 
 # 👋 Hi, I'm Nahom Tekle!  
 
@@ -19,6 +18,7 @@
 - 📈 Exploring **day trading** as a side interest.
 
 ### 🎓 Education  
+- 🎓 Graduated from the **ALX Software Engineering Program**.  
 - 📜 Accepted for **Master of Engineering in Software Engineering** at Concordia University.  
 - 🎓 Excited to begin my studies in the coming term.
 
@@ -27,13 +27,5 @@
 - 🎥 I recently created a short demo video for my project presentation—less than 3 minutes long!  
 
 ### 📫 Connect with Me  
-- 💌 Email: nahomtekle@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/nahomtekle)  
-- 📂 [Portfolio Projects](https://github.com/NahomTekle)
-
----
-
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NahomTekle&show_icons=true&theme=radical)
-```
-
+- 💌 Email: kiflunahom1994@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nahom-tekle-7481a9281)  
