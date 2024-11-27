@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Nahom Tekle!  
 
 ### 🚀 About Me  
-- 🎓 **Software Developer** at Natom Information System.  
+- 🎓 **Software Developer**.  
 - 💻 Passionate about backend development and building efficient, scalable systems.  
 - 🌍 Based in **Asmara, Eritrea**.  
 - 🎯 Currently improving my skills in **React** and exploring **data science** to complement my backend expertise.
